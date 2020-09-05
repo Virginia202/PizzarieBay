@@ -1,0 +1,19 @@
+body{
+   background-color: black;
+}
+
+.container-fluid{
+    text-align: center;
+    color: #F4D73A;
+    font-size: larger;
+    font-family: "rufina";
+}
+#nav li a{
+    color:  #F4D73A !important;
+    
+    
+
+}
+#nav li a:hover{
+    color: white !important;
+}
