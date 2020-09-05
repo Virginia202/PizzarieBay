@@ -17,3 +17,14 @@ body{
 #nav li a:hover{
     color: white !important;
 }
+.col-md-5{
+    color:  #F4D73A !important;
+    margin-top: 15%;
+    font-size: 2em;
+    font-style: italic;
+    font-family: "rufina";
+
+}
+#order-now{
+    margin-left: 30%;
+}
