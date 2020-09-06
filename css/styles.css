@@ -28,3 +28,9 @@ body{
 #order-now{
     margin-left: 30%;
 }
+.card{
+    background-color: black;
+} 
+.card-footer{
+    background-color: white;
+}
