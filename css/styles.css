@@ -28,9 +28,39 @@ body{
 #order-now{
     margin-left: 30%;
 }
+marquee{
+    padding: 5px;
+    background-color: white;
+}
 .card{
-    background-color: black;
+    background-color: white;
 } 
 .card-footer{
-    background-color: white;
+    background-color:black;
+}
+
+form{
+    display: none;
+    
+}
+#your-orders{
+    color:  #F4D73A;
+}
+/* #make-order{
+    background-image: url(..//Images/chad-montano-MqT0asuoIcU-unsplash.jpg);
+} */
+thead{
+    color: white;
+}
+#ordersmade{
+    color: white;
+}
+.deliver{
+    display: none;
+}
+.pizzarie{
+    display: none;
+}
+.delivery{
+    display: none;
 }
