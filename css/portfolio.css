@@ -39,14 +39,14 @@ body{
     font-size: larger;
     font-family: rufina;
     font-style: oblique;
-    margin-left: 30%;
-    margin-top: 10%;
+    margin-left: 50%;
+    margin-top: 20%;
     /* align-items: flex-end; */
 }
 .about>img{
     border-radius: 10pc;
-    margin-left: 10%;
-    margin-top: 10%;
+    margin-left: 30%;
+    margin-top: 20%;
     
 }
 /* h2{
@@ -58,7 +58,7 @@ body{
     flex-direction: row;
     justify-content: space-between;
     font-family: rufina;
-    margin-left: 10px;
+    margin-left: 5%;
     color: white;
     margin-top: 1%;
     
