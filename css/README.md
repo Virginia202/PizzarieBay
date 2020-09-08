@@ -19,6 +19,7 @@ This is a web application for making pizza orders online its purpose is to help 
 * Bootstrap
 ### Figma design
 https://www.figma.com/file/vWTYhrCIgWbWot162Y1bEY/PizzarieBay?node-id=1%3A2
+* changed the image 
 ## Support and contact details
 ### contact 0711299308
 ### Email virgisonie20@gmail.com
