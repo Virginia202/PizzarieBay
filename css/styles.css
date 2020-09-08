@@ -64,3 +64,15 @@ thead{
 .delivery{
     display: none;
 }
+.container-nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+.container-nav>a{
+    color: white;
+    text-decoration: none;
+    padding-top: 5px;
+}
+.container-nav>a:hover{
+    color: rgb(54, 48, 48);
+}
